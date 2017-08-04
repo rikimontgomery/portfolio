@@ -8,11 +8,15 @@
 .top-menu {
   text-align: center;
 }
-/*
-.top-menu2 {
-  text-align: center;
+
+img {
+  display: block;
+  margin-left: auto;
 }
 
-.top-menu3 {
-  text-align: left;
-}*/
+.contact-info {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
