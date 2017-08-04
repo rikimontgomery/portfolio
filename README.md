@@ -8,7 +8,7 @@ _This is a project portfolio that contains everything I've done in the first wee
 
 ## Setup Instructions
 
-1. _Access my [Repository](https://github.com/rikimontgomery/portfolio)_
+1. _Access my [Repository](https://github.com/rikimontgomery/portfolio) or go to [rikimontgomery.github.io/portfolio/](https://rikimontgomery.github.io/portfolio/)._
 
 * _You can view the directory files online or clone them from my repository._
 
