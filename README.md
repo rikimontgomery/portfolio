@@ -9,9 +9,10 @@ _This is a project portfolio that contains everything I've done in the first wee
 ## Setup Instructions
 
 1. _Access my [Repository](https://github.com/rikimontgomery/portfolio)_
-* _You can view them online or download/clone my repository yourself._
 
-2 _Make sure your have a text editor and your own GitHub account setup to work with your terminal._
+* _You can view the directory files online or clone them from my repository._
+
+2. _Make sure your have a text editor and your own GitHub account setup to work with your terminal._
 
 3. _Break things._
 
@@ -23,7 +24,7 @@ _..._
 
 If you have any questions or concerns please contact [Riki Montgomery](mailto:mostriki820@gmail.com).
 
-###License
+### License
 
 MIT License
 Copyright (c) 2017 **Riki Montgomery**
