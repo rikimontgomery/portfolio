@@ -20,6 +20,7 @@
   display: block;
   margin: auto;
   padding-bottom: 2%;
+  border-radius: 50%;
 }
 
 .contact-info {
