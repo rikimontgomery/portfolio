@@ -5,20 +5,23 @@
   text-align: center;
 }
 
+.photo-body {
+  padding-bottom: 5%;
+}
+
 .top-menu {
   text-align: center;
 }
 
 .my-photo {
   display: block;
-  margin-left: auto;
+  margin: auto;
+  padding-bottom: 2%;
 }
 
-/*.contact-info {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: auto;
+.contact-info {
+  text-align: center;
+
 }
 
 .projects1 {
@@ -37,4 +40,4 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-}*/
+}
