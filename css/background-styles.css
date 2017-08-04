@@ -2,3 +2,18 @@
   background-color: white;
   text-align: center;
 }
+
+.my-photo {
+  padding: 5%;
+}
+
+.about {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.row {
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
