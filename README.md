@@ -18,7 +18,7 @@ _This is a project portfolio that contains everything I've done in the first wee
 
 ## Known Bugs
 
-_..._
+_My the menu at the top of index.html is supposed to sit on the same line as my name._
 
 ## Contact
 
