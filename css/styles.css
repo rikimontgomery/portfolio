@@ -63,10 +63,6 @@ h1 {
 }
 
 /*About Page*/
-.about-photo {
-  padding: 5%;
-  border-radius: 50%;
-}
 
 .row {
   padding-top: 5%;
@@ -81,7 +77,6 @@ h1 {
 }
 
 /*Interests Page*/
-
 .about {
   padding-left: 20%;
   padding-right: 20%;
